@@ -1,2 +1,3 @@
 Hello, I’m @Sitasonchik.
-I'm learning c++ and some python.
+2009
+I'm learning c++ and python.
